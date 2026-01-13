@@ -1,0 +1,33 @@
+Project Title: NovaEdge – Responsive Multi-Page Website
+
+1. Project Description:
+NovaEdge is a modern business website built using only HTML5 and CSS3.
+It is a multi-page, responsive, and visually professional website that includes:
+- Home
+- About
+- Services
+- Pricing
+- Contact
+
+2. Design Choices:
+- Dark theme with neon blue highlights for a professional and modern look.
+- Clean layout with centered sections for easy readability.
+- Flexible and responsive design that works on both desktop and mobile devices.
+
+3. CSS Techniques Used:
+- Inline CSS (as required by the project)
+- Flexbox for navigation and section layouts
+- Linear gradient for background effects
+- Border-radius for smooth card edges
+- Color contrast for readability and aesthetics
+- Flexible widths and wrapping for responsive design
+
+4. Challenges Faced:
+- Creating a fully responsive and attractive design using only inline CSS.
+- Managing all styling within HTML without external CSS files or JavaScript.
+- Ensuring proper alignment and spacing across different sections.
+
+5. Conclusion:
+This project demonstrates advanced HTML5 and CSS3 skills by creating a complete,
+multi-section, responsive website without using JavaScript or external frameworks.
+It is suitable for professional presentation and portfolio purposes.
